@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Anurag, student who love competitive coding, web development, open source and many more.
 <!--
 **anuragrajanp/anuragrajanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
