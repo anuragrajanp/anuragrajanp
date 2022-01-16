@@ -1,16 +1,14 @@
-### Hi there 👋
-I'm Anurag, student who love competitive programming, web development, open source and many more.
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Palash%20Git&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Anurag%Rajan&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
   <p></p>
   
-  <!--
-  [![Twitter Follow](https://img.shields.io/twitter/follow/palashv2?style=social)](https://twitter.com/intent/follow?screen_name=palashv2)
-  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnnhIfN-A4JPs2ogiN59MRA?style=social)](https://www.youtube.com/channel/UCnnhIfN-A4JPs2ogiN59MRA?sub_confirmation=1)
-  [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCnnhIfN-A4JPs2ogiN59MRA?style=social)](https://www.youtube.com/channel/UCnnhIfN-A4JPs2ogiN59MRA?sub_confirmation=1)
-  ![GitHub followers](https://img.shields.io/github/followers/palashmon?style=social)
-  -->
+ 
+  [![Twitter Follow](https://img.shields.io/twitter/follow/anuragrajanp?style=social)](https://twitter.com/intent/follow?screen_name=anuragrajanp)
+  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnnhIfN-A4JPs2ogiN59MRA?style=social)](https://www.youtube.com/anuragrajanp?sub_confirmation=1)
+  [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/anuragrajanp?style=social)](https://www.youtube.com/anuragrajanp?sub_confirmation=1)
+  ![GitHub followers](https://img.shields.io/github/followers/anuragrajanp?style=social)
+ 
   
   <p>Welcome to my page! </br> I am Anurag, a passionate programmer & front-end developer.</p>
   <br>
