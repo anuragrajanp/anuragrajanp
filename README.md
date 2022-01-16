@@ -7,7 +7,7 @@
   [![Twitter Follow](https://img.shields.io/twitter/follow/anuragrajanp?style=social)](https://twitter.com/intent/follow?screen_name=anuragrajanp)
   [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEfHjQGXRUXiFAWtHg6lP_w?style=social)](https://www.youtube.com/channel/UCEfHjQGXRUXiFAWtHg6lP_w?sub_confirmation=1)
   [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCEfHjQGXRUXiFAWtHg6lP_w?style=social)](https://www.youtube.com/channel/UCEfHjQGXRUXiFAWtHg6lP_w?sub_confirmation=1)
-  ![GitHub followers](https://img.shields.io/github/followers/anuragrajanp?style=social)
+  <!--![GitHub followers](https://img.shields.io/github/followers/anuragrajanp?style=social)-->
  
   
   <p>I'm Anurag, student who love competitive programming, <br>web development, open source and many more.<br>
