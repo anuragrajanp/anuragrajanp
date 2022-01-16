@@ -27,9 +27,9 @@
     <a href="https://stackoverflow.com/users/1823841/pala%d1%95%d0%bd"><img src="https://stackoverflow.com/users/flair/1823841.png" width="208" height="58" alt="profile for palaѕн at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for palaѕн at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   </div>-->
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragrajanp&theme=radical&icon_colour=black&count_private=true&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragrajanp&theme=radical&include_all_commits=true&title_colour=#ffffff&icon_colour=#ffffff&text_colour=#ffffff&count_private=true&show_icons=true)
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragrajanp&theme=radical&icon_colour=black)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragrajanp&theme=radical&&title_colour=#fffffficon_colour=#ffffff&text_colour=#ffffff)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anuragrajanp.anuragrajanp)
   <br>
