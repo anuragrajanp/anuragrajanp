@@ -26,11 +26,8 @@
     <p></p>
     <a href="https://stackoverflow.com/users/1823841/pala%d1%95%d0%bd"><img src="https://stackoverflow.com/users/flair/1823841.png" width="208" height="58" alt="profile for palaѕн at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for palaѕн at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   </div>-->
-  
----      
-      
-  ### GitHub Stats
-  ![palashmon's gitHub stats](https://github-readme-stats.vercel.app/api?username=anuragrajanp&show_icons=true&theme=radical)   
+
+  ![anuragrajanp's gitHub stats](https://github-readme-stats.vercel.app/api?username=anuragrajanp&show_icons=true&theme=radical)   
    
   ### Profile Visit Count   
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anuragrajanp.anuragrajanp)
