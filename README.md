@@ -29,7 +29,7 @@
 
   ![anuragrajanp's gitHub stats](https://github-readme-stats.vercel.app/api?username=anuragrajanp&show_icons=true&theme=radical)   
    
-  ### Profile Visit Count   
+  ### Profile Visit Count
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anuragrajanp.anuragrajanp)
   <br> 
 </div>  
