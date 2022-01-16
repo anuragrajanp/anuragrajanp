@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Anurag %Rajan&fontAlign=70&fontAlignY=40&color=gradient" height="200"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Anurag Rajan&fontAlign=70&fontAlignY=40&color=gradient" height="200"/>
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
   <p></p>
   
