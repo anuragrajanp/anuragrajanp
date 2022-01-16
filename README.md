@@ -1,11 +1,11 @@
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Anurag %Rajan&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Anurag %Rajan&fontAlign=70&fontAlignY=40&color=gradient" height="200"/>
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
   <p></p>
   
  
   [![Twitter Follow](https://img.shields.io/twitter/follow/anuragrajanp?style=social)](https://twitter.com/intent/follow?screen_name=anuragrajanp)
-  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnnhIfN-A4JPs2ogiN59MRA?style=social)](https://www.youtube.com/anuragrajanp?sub_confirmation=1)
+  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/anuragrajanp?style=social)](https://www.youtube.com/channel/anuragrajanp?sub_confirmation=1)
   [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/anuragrajanp?style=social)](https://www.youtube.com/anuragrajanp?sub_confirmation=1)
   ![GitHub followers](https://img.shields.io/github/followers/anuragrajanp?style=social)
  
