@@ -27,14 +27,13 @@
     <a href="https://stackoverflow.com/users/1823841/pala%d1%95%d0%bd"><img src="https://stackoverflow.com/users/flair/1823841.png" width="208" height="58" alt="profile for palaѕн at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for palaѕн at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   </div>-->
 
-  ![anuragrajanp's gitHub stats](https://github-readme-stats.vercel.app/api?username=anuragrajanp&show_icons=true&theme=radical)   
-   
-  ### Profile Visit Count
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragrajanp&theme=radical&icon_colour=black&count_private=true&show_icons=true)
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragrajanp&theme=radical&icon_colour=black)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anuragrajanp.anuragrajanp)
-  <br> 
-</div>  
-
-<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragrajanp&count_private=true)</div>
+  <br>
+</div>
 <!--
 **palashmon/palashmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
