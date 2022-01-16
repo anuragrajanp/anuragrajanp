@@ -10,10 +10,8 @@
   ![GitHub followers](https://img.shields.io/github/followers/anuragrajanp?style=social)
  
   
-  <p></br> I am Anurag, student who love competitive programming, web development, open source and many more.</p>
-  <br>
-  <p>
-  Loves books, movies, football and Formula 1
+  <p>I'm Anurag, student who love competitive programming, <br>web development, open source and many more.<br>
+  ✨ Books, movies, football and Formula 1 🏎️
   </p>
   
 ---
