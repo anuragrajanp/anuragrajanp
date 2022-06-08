@@ -1,1 +1,1 @@
-<img style="border-radius:50%" src="code.gif" width="400">
+<img border="10px" src="code.gif" width="400">
