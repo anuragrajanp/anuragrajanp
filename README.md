@@ -1,1 +1,1 @@
-<img border="10px" src="code.gif" width="400">
+<img src="code.gif" border="10px" width="400">
